@@ -1,0 +1,28 @@
+name: StandbyRolling
+favicon: null
+layout_spectrum: 0.30967
+typography_spectrum: 0.57333
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#af1f24'
+    - '#eeef95'
+    - '#ba4639'
+    - '#c56b4a'
+    - '#d6a664'
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0
+purpose: []
