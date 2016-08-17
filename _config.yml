@@ -1,8 +1,7 @@
 name: StandbyRolling
 favicon: null
-layout_spectrum: 0.30967
-typography_spectrum: 0.57333
-title: Audio Mixing / Recording / Installation Services And More
+layout_spectrum: 0.7399722896516323
+typography_spectrum: 0.5562541757244617
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#af1f24'
-    - '#eeef95'
-    - '#ba4639'
-    - '#c56b4a'
-    - '#d6a664'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.875
-  rhythmicContrast: 0
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.28102129558101296
+  lightness: 0.9637943401467055
+  saturation: 0.2271180881652981
+  rhythmicContrast: 0.09120708680711687
 purpose: []
